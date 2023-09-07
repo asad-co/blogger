@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/blogger/static/js/main.298c22b0.js",
+    "main.js": "/blogger/static/js/main.332fbafb.js",
     "static/media/windmill.svg": "/blogger/static/media/windmill.c6502469d126dfc9c2524e5ca9721e57.svg",
     "index.html": "/blogger/index.html",
-    "main.298c22b0.js.map": "/blogger/static/js/main.298c22b0.js.map"
+    "main.332fbafb.js.map": "/blogger/static/js/main.332fbafb.js.map"
   },
   "entrypoints": [
-    "static/js/main.298c22b0.js"
+    "static/js/main.332fbafb.js"
   ]
 }
