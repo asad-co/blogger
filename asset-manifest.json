@@ -1,11 +1,14 @@
 {
   "files": {
-    "main.js": "/blogger/static/js/main.332fbafb.js",
+    "main.css": "/blogger/static/css/main.4828c3f0.css",
+    "main.js": "/blogger/static/js/main.ecfe42e5.js",
     "static/media/windmill.svg": "/blogger/static/media/windmill.c6502469d126dfc9c2524e5ca9721e57.svg",
     "index.html": "/blogger/index.html",
-    "main.332fbafb.js.map": "/blogger/static/js/main.332fbafb.js.map"
+    "main.4828c3f0.css.map": "/blogger/static/css/main.4828c3f0.css.map",
+    "main.ecfe42e5.js.map": "/blogger/static/js/main.ecfe42e5.js.map"
   },
   "entrypoints": [
-    "static/js/main.332fbafb.js"
+    "static/css/main.4828c3f0.css",
+    "static/js/main.ecfe42e5.js"
   ]
 }
